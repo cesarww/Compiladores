@@ -1,9 +1,0 @@
-VARIABLE ENTERO num1 = 1;
-VARIABLE ENTERO num2 = 2;
-
-SI? (num1 == num2){
-    IMPRIME('HOLA')
-}
-DE_LO_CONTRARIO {
-    num1+=num2;
-}
